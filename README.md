@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **augustosaboiaestudos@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/augustosaboiadev/](https://www.linkedin.com/in/augustosaboiadev/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/augustosaboiadev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
