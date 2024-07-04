@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=augustuuuuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustuuuuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=augustuuuuuu&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="augustuuuuuu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=augustuuuuuu&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="augustuuuuuu" /> </p>
 
 ###
 
@@ -53,14 +53,6 @@
   </a>
   <a href="https://www.linkedin.com/in/augustosaboiadev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/313ktjngipjezxbesv7uzfj5ue4y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313ktjngipjezxbesv7uzfj5ue4y&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
