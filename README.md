@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A Science Computer Student</h3>
+<h3 align="center">A Science Computer Student currently working at SERPRO</h3>
 
 ###
 
