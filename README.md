@@ -1,23 +1,67 @@
-<h1 align="center" background-color: blueviolet >Hi 👋, I'm Augusto Saboia</h1>
+<h1 align="center">Hi ✌️ ! I'm Augusto Saboia</h1>
+
+###
+
 <h3 align="center">A Science Computer Student</h3>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=augustuuuuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustuuuuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustuuuuuu&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="augustuuuuuu" /> </p>
 
-- 🧑‍💻 I’m currently working on [Federal Data Processing Service](https://en.wikipedia.org/wiki/Servi%C3%A7o_Federal_de_Processamento_de_Dados)
+###
 
-- 🌱 I’m currently learning **Data Structures with Python and lowcode with OutSystems**
+<h3 align="center">Development areas</h3>
 
-- 📫 How to reach me **augustosaboiaestudos@gmail.com**
+###
 
-- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/augustosaboiadev/)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="35" alt="jupyter logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="35" alt="pycharm logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="35" alt="pandas logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="35" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="35" alt="markdown logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="35" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/augustosaboiadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="augustosaboiadev" height="30" width="40" /></a>
-<a href="https://instagram.com/augustuuuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="augustuuuuu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@augustosaboiadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@augustosaboiadev" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align="left"> <img src="https://hit.yhype.me/github/profile?user_id=134610628" alt="Counter" /> </p> 
+<h3 align="center">Contact me</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/@augustosaboiadev"" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/augustuuuuu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/augustosaboiadev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/313ktjngipjezxbesv7uzfj5ue4y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313ktjngipjezxbesv7uzfj5ue4y&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
