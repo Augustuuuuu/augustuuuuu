@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Augusto Saboia</h1>
 <h3 align="center">A Science Computer Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=augustuuuuuu&label=Profile%20views&color=0e75b6&style=flat" alt="augustuuuuuu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=augustuuuuuu&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="augustuuuuuu" /> </p>
 
 - 🧑‍💻 I’m currently working on [Federal Data Processing Service](https://en.wikipedia.org/wiki/Servi%C3%A7o_Federal_de_Processamento_de_Dados)
 
