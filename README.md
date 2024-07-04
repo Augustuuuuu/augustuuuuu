@@ -14,11 +14,11 @@
 
 ###
 
-<h3 align="center">Development areas</h3>
+<h3 align="right">Development areas</h3>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="35" alt="jupyter logo"  />
@@ -40,11 +40,11 @@
 
 ###
 
-<h3 align="center">Contact me</h3>
+<h3 align="right">Contact me</h3>
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://www.youtube.com/@augustosaboiadev"" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
