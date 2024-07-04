@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Augusto Saboia</h1>
+<h1 align="center" background-color: blueviolet >Hi 👋, I'm Augusto Saboia</h1>
 <h3 align="center">A Science Computer Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustuuuuuu&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="augustuuuuuu" /> </p>
