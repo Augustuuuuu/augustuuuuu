@@ -14,6 +14,7 @@
 
 ###
 
+
 <h3 align="left">Development areas</h3>
 
 ###
@@ -25,7 +26,7 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="35" alt="pycharm logo"  />
   <img width="10" />
-  <img src = "https://github.com/Augustuuuuu/augustuuuuu/assets/134610628/6c7ea06f-a3e3-4e11-ac0a-d9b51e6c5002" height="35" alt="outsystems logo" />
+  <img src = "https://github.com/Augustuuuuu/augustuuuuu/assets/134610628/51b622d7-947d-466f-9ce1-59e3d825317b" height="35" alt="outsystems logo" />
   <img width="10" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="35" alt="pandas logo"  />
   <img width="10" />
