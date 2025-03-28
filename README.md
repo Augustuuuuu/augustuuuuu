@@ -1,21 +1,21 @@
-<h1 align="center">Hi ✌️! I'm Augusto Saboia</h1>
+# Olá ✌️! Eu sou Augusto Saboia
 
-###
-
-<h3 align="center">A Science Computer Student currently working at SERPRO</h3>
+<h3 align="center">Estudante de Ciência da Computação atualmente trabalhando no SERPRO</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=augustuuuuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustuuuuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=augustuuuuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustuuuuu&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=augustuuuuuu&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="augustuuuuuu" /> </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=augustuuuuu&label=Visualizações%20do%20Perfil&color=blueviolet&style=for-the-badge&abbreviated=true" alt="augustuuuuu" />
+</p>
 
 ###
 
-
-<h3 align="left">Development areas</h3>
+<h3 align="left">Áreas de Desenvolvimento</h3>
 
 ###
 
@@ -36,27 +36,41 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="35" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="35" alt="vscode logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" height="35" alt="java logo"  />
 </div>
 
 ###
 
-<h3 align="left">Contact me</h3>
+<h3 align="left">Entre em Contato</h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@augustosaboiadev"" target="_blank">
+  <a href="https://www.youtube.com/@augustosaboiadev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://instagram.com/augustuuuuu" target="_blank">
+  <a href="https://www.instagram.com/saboia.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/augustosaboiadev/" target="_blank">
+  <a href="https://www.linkedin.com/in/augustosaboia/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:augustosaboiaestudos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
+
+<h3 align="left">Sobre Mim</h3>
+
+###
+
+<p align="left">
+  👨‍💻 Atualmente focado em desenvolvimento back-end com Java Spring Boot e SQL<br>
+  🌱 Aprendendo Java Spring Boot e SQL<br>
+  💡 Interessado em desenvolvimento back-end junior<br>
+  🎯 Objetivo: Trabalhar home office e ter estabilidade financeira
+</p>
