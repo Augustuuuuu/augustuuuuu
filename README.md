@@ -69,7 +69,7 @@
 ###
 
 <p align="left">
-  👨‍💻 Atualmente focado em desenvolvimento back-end com Java Spring Boot e SQL<br>
+  👨‍💻 Atualmente focado em desenvolvimento back-end com Python e SQL<br>
   🌱 Aprendendo Java Spring Boot e SQL<br>
   💡 Interessado em desenvolvimento back-end junior<br>
   🎯 Objetivo: Trabalhar home office e ter estabilidade financeira
