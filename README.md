@@ -19,9 +19,9 @@
 
 ### Sobre mim
 
-Estudo Ciência da Computação e atuo como estagiário no **SERPRO**, onde trabalho com automação de processos e desenvolvimento interno.
+Estudo Ciência da Computação e 2 anos de experiência no **SERPRO**, onde trabalhei com automações de processos e desenvolvimento interno.
 
-Fora do estágio, construo projetos do zero para resolver problemas reais — de scrapers que coletam leads no Google Maps até pipelines de dados com ETL, banco de dados e API REST.
+Construo projetos do zero para resolver problemas reais — de scrapers que coletam leads no Google Maps até pipelines de dados com ETL, banco de dados e API REST.
 
 Tenho interesse especial em **back-end**, **automação**, **dados** e **APIs**.
 
