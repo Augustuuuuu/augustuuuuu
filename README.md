@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor Back-End · Python · Java · SQL<br>
-  Estagiário no <strong>SERPRO</strong> · Ciência da Computação — 7° semestre
+  2 anos de experiência no <strong>SERPRO</strong> · Ciência da Computação — 7° semestre
 </p>
 
 <p align="center">
