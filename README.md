@@ -59,7 +59,7 @@ Tenho interesse especial em **back-end**, **automação**, **dados** e **APIs**.
 | [**star-wars-api**](https://github.com/Augustuuuuu/star-wars-api) | API REST com deploy real no Google Cloud | Python · Cloud Functions · API Gateway |
 | [**flowset**](https://github.com/Augustuuuuu/flowset) | App desktop para lançar múltiplos programas por perfil | Electron · JavaScript · HTML/CSS |
 | [**clube-beneficios**](https://github.com/Augustuuuuu/clube-beneficios) | Plataforma de clube de benefícios com deploy na Render | Django · PostgreSQL · Render |
-| [**Cardapio-JavaSpring-react**](https://github.com/Augustuuuuu/Cardapio-JavaSpring-react) | Cardápio digital full-stack | Java Spring Boot · React · PostgreSQL |
+| [**Automation-Serpro**](https://github.com/Augustuuuuu/Automation-Serpro) | Automação para contagem de pontos de função no SERPRO | Python |
 
 ---
 
