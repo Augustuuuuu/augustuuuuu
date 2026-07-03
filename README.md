@@ -65,6 +65,6 @@ Foco em **back-end**, **automação de processos** e **dados**. Atualmente expan
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/augustosaboia/augustosaboia/main/generated/overview.svg" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/augustosaboia/augustosaboia/main/generated/languages.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/augustosaboia/github-stats/main/generated/overview.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/augustosaboia/github-stats/main/generated/languages.svg" alt="Top Languages" />
 </div>
