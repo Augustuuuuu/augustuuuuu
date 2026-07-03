@@ -65,6 +65,6 @@ Foco em **back-end**, **automação de processos** e **dados**. Atualmente expan
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-drab-theta-45.vercel.app/api?username=augustosaboia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-drab-theta-45.vercel.app/api/top-langs?username=augustosaboia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/augustosaboia/augustosaboia/main/generated/overview.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/augustosaboia/augustosaboia/main/generated/languages.svg" alt="Top Languages" />
 </div>
